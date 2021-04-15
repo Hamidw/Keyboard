@@ -1,5 +1,13 @@
 = Keyboard Library for Arduino =
 
+FORKED BY @Hamidw
+Added and fixed French library, ready to use
+ASCII remapped and names corrected.
+
+Copy the Keyboard.cpp and the Keyboard.h files to :
+
+C:\Program Files(x86)\Arduino\Librairies\Keyboard
+
 This library allows an Arduino board with USB capabilities to act as a Keyboard.
 
 For more information about this library please visit us at
