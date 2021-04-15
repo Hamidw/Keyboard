@@ -3,7 +3,7 @@
 FORKED BY @Hamidw
 
 Added and fixed French library, ready to use
-ASCII remapped and names corrected.
+ASCII remapped and filename dependencies fixed
 
 Copy the Keyboard.cpp and the Keyboard.h files to :
 
