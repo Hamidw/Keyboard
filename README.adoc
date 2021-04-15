@@ -11,7 +11,7 @@ C:\Program Files(x86)\Arduino\Librairies\Keyboard
 
 This library allows an Arduino board with USB capabilities to act as a Keyboard.
 
-For more information about this library please visit us at
+For more information about this library visit :
 https://www.arduino.cc/reference/en/language/functions/usb/keyboard/
 
 == License ==
